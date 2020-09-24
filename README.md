@@ -1,1 +1,0 @@
-# malik-uptime-bot
